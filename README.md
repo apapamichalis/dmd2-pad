@@ -12,6 +12,7 @@ project was done as an improvement over the original RazorPad, the same connecti
 the boards have different GPIO pins located at the same location on the board (relative to the location of the USB port). This means
 that **e.g. what the schematic shows as GPIO 5 in Xiao ESP32-C3 is GPIO 2** (the D0 pin on the Xiao schematic). I am attaching the
 original schematic here, which can only serve as an optical guide, since as mentioned above, **pin numbers are incorrect!**
+
 ![pad](https://github.com/user-attachments/assets/463b3c44-49c4-4bca-90d6-b63dc8f122e5)
 
 ## Libraries
