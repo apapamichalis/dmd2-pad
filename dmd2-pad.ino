@@ -21,8 +21,7 @@ Button buttons[] = {
   { 3,  Bounce(), KEY_DOWN_ARROW,  "DOWN"   },  // DOWN
   { 4,  Bounce(), KEY_LEFT_ARROW,  "LEFT"   },  // LEFT
   { 8,  Bounce(), KEY_RIGHT_ARROW, "RIGHT"  },  // RIGHT
-  { 6,  Bounce(), KEY_RETURN,      "ENTER"  },  // ENTER
-  { 7,  Bounce(), KEY_F5,          "BACK"   },  // BACK
+  { 7,  Bounce(), KEY_RETURN,      "ENTER"  },  // ENTER
   { 10, Bounce(), KEY_F6,          "ZOOM +" },  // ZOOM +
   { 9,  Bounce(), KEY_F7,          "ZOOM -" }   // ZOOM -
 };
